@@ -1,0 +1,23 @@
+[general]
+version = 4
+name = Vyper petg
+definition = anycubic_i3_mega
+
+[metadata]
+type = quality_changes
+quality_type = high
+setting_version = 17
+
+[values]
+adaptive_layer_height_threshold = 0.4
+adaptive_layer_height_variation = 0.04
+adaptive_layer_height_variation_step = 0.04
+adhesion_type = brim
+jerk_enabled = False
+layer_height = 0.2
+layer_height_0 = 0.28
+retraction_combing = noskin
+support_enable = True
+support_type = everywhere
+travel_retract_before_outer_wall = True
+
